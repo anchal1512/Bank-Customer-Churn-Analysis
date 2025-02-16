@@ -1,2 +1,2 @@
 # Bank-Customer-Churn-Analysis
-Banks aim to retain customers, but customer churn remains a challenge. This project analyzes factors influencing churn using customer demographic and financial data.
+This project aimed to analyze customer behavior and identify key factors contributing to customer churn using Excel Pivot Tables and Data Analysis ToolPak.
